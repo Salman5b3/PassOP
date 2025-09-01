@@ -26,7 +26,7 @@ PassOP is a password manager built with the MERN (MongoDB, Express.js, React, No
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/sulemankhan1803/PassOP.git
+git clone https://github.com/Salman5b3/PassOP.git
 cd passop
 ```
 
